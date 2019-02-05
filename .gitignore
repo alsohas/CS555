@@ -28,6 +28,8 @@ MANIFEST
 #CUSTOM
 pyvenv.cfg
 *.csv
+*.pem
+*.txt
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
