@@ -31,6 +31,8 @@ pyvenv.cfg
 *.pem
 *.txt
 *.sh
+.vscode
+*.pkl
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
